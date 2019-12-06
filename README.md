@@ -1,4 +1,8 @@
 # tinysh
+ tinysh is contains some of basic bash commads
+ 
+ # Getting Started
+
   •	User should be able to enter commands with parameters, but there is no limitation of characters to be entered. 
   
   •	tinysh executable in shell script which display tinysh > as  its prompt. This might require to override the existing shell prompt.
@@ -20,3 +24,10 @@
   -	ls -la: lists the files in the current directory. -l stands for list style, -a stands for all files including hidden files and directories.
 
   -	touch <file> : creates the given file in the current directory. Checks if the given file exists. If exists, overrides it.
+
+## Authors
+- [Ersin ÇEBİ](https://github.com/ersincebi)
+    
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
